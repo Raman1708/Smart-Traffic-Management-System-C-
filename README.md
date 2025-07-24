@@ -7,7 +7,7 @@ This is a project developed as part of an educational exercise to practice Objec
 
 ## Interface:
 
-![1](https://github.com/user-attachments/assets/20221fdb-c9f1-4029-8a35-722346b92afb)
+![1](Raman1708/Smart-Traffic-Management-System-C-/Screenshot 2025-07-25 032451.png)
 ![2](https://github.com/user-attachments/assets/8527b1ff-5276-408e-b3a6-ca883ed8ac32)
 
 
