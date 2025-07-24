@@ -53,9 +53,4 @@ This is a project developed as part of an educational exercise to practice Objec
 
 
 
-## Limitations and Improvements
-- **Testing**: The program hasn't been fully tested, so there may be bugs or unexpected behavior.
-- **Improvements**: Further optimization and feature enhancements are possible.
-
-
 
