@@ -60,10 +60,4 @@ This is a project developed as part of an educational exercise to practice Objec
 - **Improvements**: Further optimization and feature enhancements are possible.
 
 
-## Purpose
-This project is designed purely for educational purposes to learn **OOP concepts in C++**. It is not intended for real-world use and may require further refinement.
 
-
-## License
-
-> **This project is owned by [Muhammad Jawad Ahmad](https://www.linkedin.com/in/JawadAhmadCS/) and is not the property of any institution. Feel free to use it for educational purposes.**
