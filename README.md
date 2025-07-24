@@ -6,7 +6,7 @@ This is a project developed as part of an educational exercise to practice Objec
 
 
 ## Interface:
-![1]<img width="317" height="531" alt="image" src="https://github.com/user-attachments/assets/9aacf40a-075f-42d3-ba9f-9aebf9ef9a68" />
+<img width="417" height="631" alt="image" src="https://github.com/user-attachments/assets/9aacf40a-075f-42d3-ba9f-9aebf9ef9a68" />
 ![2](https://github.com/user-attachments/assets/8527b1ff-5276-408e-b3a6-ca883ed8ac32)
 
 
