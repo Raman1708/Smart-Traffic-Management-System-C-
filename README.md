@@ -14,10 +14,8 @@ This is a project developed as part of an educational exercise to practice Objec
 ## Features
 
 - **Vehicle Base Class**: A base class `Vehicle` stores general information for vehicles.
-- **Derived Classes**:
+- **Derived Class**:
   - `Car`
-  - `Motorcycle`
-  - `Truck`
   These classes extend the functionality of the `Vehicle` class.
 - **Traffic Control Center**: A `TrafficControlCenter` class manages and controls the flow of vehicles in the system, using random numbers to simulate real-world traffic conditions.
 - **File Handling**:
