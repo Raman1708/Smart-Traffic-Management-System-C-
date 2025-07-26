@@ -6,7 +6,9 @@ This is a project developed as part of an educational exercise to practice Objec
 
 
 ## Interface:
-<img width="360" height="490" alt="image" src="https://github.com/user-attachments/assets/dc05a1a3-1bb8-4682-aac4-6f291e15e5f9" />![2](https://github.com/user-attachments/assets/8527b1ff-5276-408e-b3a6-ca883ed8ac32)
+<img width="360" height="490" alt="image" src="https://github.com/user-attachments/assets/dc05a1a3-1bb8-4682-aac4-6f291e15e5f9" />
+<img width="360" height="490" alt="Screenshot 2025-07-26 163401" src="https://github.com/user-attachments/assets/671e9cab-ed71-45a4-be3d-2f955873ee8b" />
+
 
 
 ## Features
