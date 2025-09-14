@@ -1,6 +1,6 @@
 # Traffic Management System 
 ## Overview
-This is a project developed as part of an educational exercise to practice Object-Oriented Programming (OOP) concepts in C++. The system simulates a Traffic Management System, handling various vehicle types like cars, motorcycles, and trucks.
+This is a project that is developed to practice Object-Oriented Programming (OOP) concepts in C++. The system simulates a Traffic Management System, handling various vehicle types like cars, motorcycles, and trucks.
 
 
 
